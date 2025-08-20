@@ -1,6 +1,6 @@
 ## Hi there, I'm Alexia Bezerra
 
-- 👩🏾‍🏫🤓 I'm **Math Teacher** and **Data Analysis Student**.
+- 👩🏾‍🏫🤓 I'm **Math Teacher** and **Software Engineer**.
 
 - Ⓜ️ Graduated in **Mathematics** and Technical Course in **Systems Development**.
   
